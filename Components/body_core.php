@@ -1,0 +1,221 @@
+<body>
+    <audio id="myAudio" autoplay loop>
+      <source src="Assets/music/musik.mp3" type="audio/mpeg" />
+    </audio>
+    <button id="playButton" class="moon-button"></button>
+    <section id="sectionBesar">
+      <div class="pembungkus">
+        <p>THE WEDDING OF</p>
+        <h1>Shabela  & Ainul</h1>
+        <p>13.06.2025</p>
+      </div>
+    </section>
+    <section id="sectionKecil">
+      <div class="cover" id="cover">
+        <img
+          src="Assets/images/Pengantin.JPEG"
+          alt="pengantin"
+          class="pengantin"
+        />
+        <p class="gowunbatang-bold">The Wedding Of</p>
+        <h1>Shabela & Ainul</h1>
+        <p class="gowunbatang-bold">13.06.2025</p>
+      </div>
+      <div class="ayat">
+        <p class="gowunbatang-bold judul appear">Surah Ar-Rum Ayat 21</p>
+        <div class="arab appear">
+          <p>
+            وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا
+            لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ
+            إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ
+          </p>
+        </div>
+        <div class="translation appear">
+          <p>
+            "Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan
+            pasangan-pasangan untukmu dari jenismu sendiri agar kamu cenderung
+            dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa
+            kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar
+            terdapat tanda-tanda bagi kaum yang berpikir."
+          </p>
+        </div>
+      </div>
+      <div class="mempelai">
+        <img
+          src="Assets/images/bismillah.png"
+          alt="Bismillah"
+          class="appear"
+        />
+        <p class="appear">Assalamu'alaikum Warahmatullaahi Wabarakaatuh</p>
+        <p class="desk appear">
+          Maha Suci Allah yang telah menciptakan makhluk-Nya berpasang-pasangan.
+          Ya Allah semoga ridho-Mu tercurah mengiringi pernikahan kami.
+        </p>
+        <div class="pengantin-pria appear">
+          <img
+            src="Assets/images/pengantin pria.PNG"
+            alt="pengantin pria"
+            class="foto"
+          />
+          <h1>Ainul</h1>
+          <h3>Ahmad Ainul Yaqin</h3>
+          <p>
+            Putra Dari Bapak Markani <br />
+            Dan Ibu Siti Imaroh
+          </p>
+        </div>
+        <div class="dan appear">---- & ----</div>
+        <div class="pengantin-wanita appear">
+          <img
+            src="Assets/images/pengantin wanita.PNG"
+            alt="pengantin wanita"
+            class="foto"
+          />
+          <h1>Shabela</h1>
+          <h3>Shabela Nur Malinda</h3>
+          <p>
+            Putri Dari Bapak Nur Kholis <br />
+            Dan Ibu Siti Sutanti Nurya Hani
+          </p>
+        </div>
+      </div>
+      <div class="acara">
+        <div class="akad appear">
+          <p class="judul">Akad Nikah</p>
+          <div class="tanggal">
+            <p class="angka">13</p>
+            <p class="teks">
+              Juni <br />
+              2025 <br />
+              08.00 WIB s/d Selesai
+            </p>
+          </div>
+        </div>
+        <div class="resepsi appear">
+          <p class="judul">Resepsi Pernikahan</p>
+          <div class="tanggal">
+            <p class="angka">13</p>
+            <p class="teks">
+              Juni <br />
+              2025<br />
+              13.00 WIB s/d Selesai
+            </p>
+          </div>
+        </div>
+        
+      </div>
+      <div class="lokasi">
+        <h1 class="appear">Lokasi Acara</h1>
+        <p class="appear">Dsn Singopadu RT 04 / RW 02 Ds Canggu Kec Jetis Kab Mojokerto</p>
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3956.357927084314!2d112.4510917750013!3d-7.4255832925849985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMjUnMzIuMSJTIDExMsKwMjcnMTMuMiJF!5e0!3m2!1sid!2sid!4v1749125348434!5m2!1sid!2sid"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          class="maps appear"
+        ></iframe>
+        <a
+          href="https://maps.app.goo.gl/qau3GW1311CgeJAV6"
+          target="_blank"
+          class="lihatPeta appear"
+          >Lihat Lokasi Acara</a
+        >
+      </div>
+      <div class="galeri">
+        <h1 class="appear">--- Galeri ---</h1>
+        <div class="img-container appear">
+          <div class="mySlide">
+            <img src="Assets/images/Pengantin 1.JPEG" alt="pengantin" />
+          </div>
+          <div class="mySlide">
+            <img src="Assets/images/Pengantin 3.JPEG" alt="pengantin" />
+          </div>
+          <div class="mySlide">
+            <img src="Assets/images/Pengantin 4.JPEG" alt="pengantin" />
+          </div>
+          <div class="mySlide">
+            <img src="Assets/images/Pengantin 5.JPEG" alt="pengantin" />
+          </div>
+          <a class="prev" onclick="plusSlide(-1)">&#10094;</a>
+          <a class="next" onclick="plusSlide(1)">&#10095;</a>
+        </div>
+      </div>
+      <div class="rsvp">
+        <h1 class="appear">RSVP & Ucapan</h1>
+        <form id="rsvpForm" class="appear">
+          <label for="name" style="font-size: 20px">Nama:</label>
+          <input type="text" id="name" name="name" required />
+
+          <div>
+            <p class="confirm">Konfirmasi Kehadiran:</p>
+
+            <div class="radio-box">
+              <div class="radio-container">
+                <input
+                  type="radio"
+                  id="yes"
+                  name="attendance"
+                  value="Hadir"
+                  required
+                />
+                <label for="yes">Hadir</label>
+              </div>
+
+              <div class="radio-container">
+                <input
+                  type="radio"
+                  id="no"
+                  name="attendance"
+                  value="Tidak Hadir"
+                  required
+                />
+                <label for="no">Tidak Hadir</label>
+              </div>
+            </div>
+          </div>
+
+          <label for="message" style="font-size: 20px">Ucapan/Doa:</label>
+          <textarea id="message" name="message" rows="4" required></textarea>
+
+          <button type="submit">Kirim</button>
+
+          <h2>Daftar Kehadiran & Ucapan</h2>
+          <div id="submittedData"></div>
+        </form>
+      </div>
+      <div class="hadiah">
+        <h1 class="appear">-- Hadiah Pernikahan --</h1>
+        <p class="appear">
+          Doa Restu Anda merupakan karunia yang sangat berarti bagi kami. Dan
+          jika memberi adalah ungkapan tanda kasih Anda, Anda dapat memberi kado
+          secara cashless.
+        </p>
+        <div class="card appear">
+          <div class="bank">
+            <img src="Assets/icon/Logo-Bank-BRI.png" alt="bri" />
+            <p>
+              058701029813501 <br />
+              A/N: Shabela nur malinda
+            </p>
+          </div>
+          <alt="qris" style="width: 80%" />
+        </div>
+      </div>
+      <div class="penutup" id="penutup">
+        <img
+          src="Assets/images/Pengantin.JPEG"
+          alt="pengantin"
+          class="pengantin"
+        />
+        <p class="gowunbatang-bold">
+          Ungkapan terima kasih yang tulus dari kami apabila
+          Bapak/Ibu/Teman-teman berkenan hadir dan memberikan do’a restu.
+        </p>
+        <p>Wassalamualaikum Warahmatullahi Wabarakatuh</p>
+        <p class="garis">--------------</p>
+        <p class="gowunbatang-bold">Turut berbahagia, segenap keluarga besar</p>
+        <h1>Shabela & Ainul</h1>
+      </div>
+    </section>
+  </body>
